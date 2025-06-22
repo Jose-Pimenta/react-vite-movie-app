@@ -1,6 +1,6 @@
 # React Vite Movie App
 
-React Vite Movie App is a responsive web application built with React and Vite that lets users search for movies and view detailed information, powered by the OMDB API.
+React Vite Movie App is a responsive web application built with React and Vite that lets users search for movies and view detailed information, powered by the OMDB API.  
 [![Vercel](https://img.shields.io/badge/Deploy-on_Vercel-000?style=flat&logo=vercel&logoColor=white)](https://movie-app.tiagopimenta.pt)
 
 ## Features
