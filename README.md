@@ -24,28 +24,35 @@ React Vite Movie App is a responsive web application built with React and Vite t
 ```
 react-vite-movie-app/
 ├── public/
-│   └── index.html
+│   └── vite.svg
 ├── src/
+│   ├── assets/
 │   ├── components/
 │   │   ├── MovieCard.jsx
-│   │   ├── MovieCard.module.css
-│   │   ├── SearchBar.jsx
-│   │   ├── SearchBar.module.css
-│   │   ├── Pagination.jsx
-│   │   └── Pagination.module.css
+│   │   └── NavBar.jsx
+│   ├── context/
+│   │   └── MovieContext.jsx
+│   ├── css/
+│   │   ├── App.css
+│   │   ├── Favorite.css
+│   │   ├── Home.css
+│   │   ├── MovieCard.css
+│   │   ├── Navbar.css
+│   │   └── index.css
 │   ├── pages/
-│   │   ├── Home.jsx
-│   │   └── MovieDetail.jsx
-│   ├── api/
-│   │   └── omdb.js
+│   │   ├── Favorites.jsx
+│   │   └── Home.jsx
+│   ├── services/
+│   │   └── api.js
 │   ├── App.jsx
-│   ├── main.jsx
-│   └── index.css
-├── .env.example
+│   └── main.jsx
 ├── .gitignore
+├── eslint.config.js
+├── index.html
 ├── package.json
 ├── package-lock.json
 ├── vite.config.js
+├── vercel.json
 └── README.md
 ```
 
