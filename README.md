@@ -9,6 +9,7 @@ React Vite Movie App is a responsive web application built with React and Vite t
 - Display movie cards with poster, title, year, and type
 - View detailed movie information including plot, cast, ratings, and more
 - Pagination support for search results
+- Responsive UI for desktop and mobile
 
 ## Technologies
 
